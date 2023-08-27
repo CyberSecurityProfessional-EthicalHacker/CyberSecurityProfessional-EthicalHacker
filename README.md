@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://github.com/Programmer-Hacktivist">
-    <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+            <img align="center" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp4969249.jpg">
+    <p  align="right">
+    <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">       
   </a>
 </p>
 
